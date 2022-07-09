@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "did I feed my pet",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

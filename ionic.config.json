@@ -1,0 +1,8 @@
+{
+  "name": "did I feed my pet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "78adb8a8"
+}
